@@ -16,4 +16,5 @@ gem 'require_all', '~> 3.0'
 
 group :dev do
     gem 'rerun', '~> 0.14.0'
+    gem "pry"
 end
